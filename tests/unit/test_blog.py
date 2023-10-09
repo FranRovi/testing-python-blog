@@ -29,3 +29,5 @@ class BlogTest(TestCase):
         self.assertEqual("Peter's blog by Peter Parker (2 posts)",
                          b2.__repr__())
 
+
+
